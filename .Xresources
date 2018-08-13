@@ -1,0 +1,22 @@
+URxvt.depth:                32
+URxvt.geometry:             90x30
+URxvt.loginShell:           true
+URxvt.internalBorder:       3
+URxvt.lineSpace:            0
+
+URxvt*shading: 15
+
+URxvt*saveLines: 12000
+
+URxvt*foreground: #657b83
+URxvt*background: #002b36
+
+URxvt*font: xft:Monaco:pixelsize=20
+URxvt*boldFont: xft:Monaco:bold:pixelsize=15
+URxvt*letterSpace: -1
+
+URxvt*scrollBar: true
+
+URxvt*scrollBar_right: false
+
+URxvt*scrollstyle: plain
