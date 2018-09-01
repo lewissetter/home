@@ -1,0 +1,94 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{listings}
+\usepackage{color}
+ 
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+ 
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    stringstyle=\color{codepurple},
+    basicstyle=\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+\title{Answers to the Intro to Open CV Assignment}
+\author{Lewis Setter}
+
+\begin{document}
+
+\maketitle
+
+\begin{enumerate}
+\item
+OpenCV stores images useing the Mat class.
+
+\item
+\textit{image.shape} returns a tuple containing the number of rows, columns, and 
+channels in \textit{image}.
+
+\item
+\textit{fx} and \textit{fy} in \textit{c2v.resize} are scale factors for resize the
+horizontal and vertical axes, respectively.
+
+\item
+In the specified case, the resulting rotation matrix would describe a rotation by the
+same amount but about a point toward the upper left corner of the image it affects.
+
+\item
+
+\item
+Functions in python are written like this:
+\begin{lstlisting}[language=Python]
+    def functionName (arg 1, arg2, arg3, areYouGettingTheIdea):
+        # make sure you indent once you finish the function delcaration
+
+        #
+        # code within the function goes here!
+        #
+
+        return optionalVal
+\end{lstlisting}
+\item
+It depends on where you decide to look!
+A function in Python always execute using the same set of arguments definied in the
+the fucntion definition. However, a programmer does not have to pass in every argument
+to the function if they have taken advantage of default values. For instance, consider
+the function definition below:
+\begin{lstlisting}[language=Python]
+    def exampleFunction(SEED, lab = "awesome!"):
+        ...
+\end{lstlisting}
+When the program calls this function, it is required to pass in at least one argument
+so that "SEED" has a value. They do not need to pass in two arguments because "lab"
+has a default value of "awesome!". However, the function is free to take two parameters.
+In this case, "lab" will be assigned whatever the second argument in the calling code is.
+
+NOTE: If default values are used for some arguments in a function definition, those
+arguments must be listed consecutively as the last arguments in the definition.
+
+\item
+Here are two methods that can be used with list functions:
+\\
+sort(): returns a sorted version of the input list\\
+any(): checks if any of the list items are logically equivalent to true\\
+
+\end{enumerate}
+\end{document}
+
+imamge.shape:
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_core/py_basic_ops/py_basic_ops.html

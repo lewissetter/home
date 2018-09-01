@@ -1,0 +1,21 @@
+# Fdb version 3
+["pdflatex"] 1534871112 "lab_notes.tex" "lab_notes.pdf" "lab_notes" 1534878733
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1525040095 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1525040104 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
+  "/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty" 1525040104 13829 94730e64147574077f8ecfea9bb69af4 ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1525040104 2211 ca7ce284ab93c8eecdc6029dc5ccbd73 ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty" 1525040104 4161 7f6eb9092061a11f87d08ed13515b48d ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty" 1525040104 84354 7292177bb735c466b78634ee4efd537e ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty" 1525040104 4116 32e6abd27229755a83a8b7f18e583890 ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty" 1525040104 2432 8ff93b1137020e8f21930562a874ae66 ""
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1525040104 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "/usr/share/texmf-dist/tex/latex/base/size10.clo" 1525040104 8294 b0f177401f895563eb19304d2389582d ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1525040116 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1534280994 2583743 6076af7f38d3f51a88e756fe427d0ba1 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1534280991 7906416 e770ee2ca6d5fd2466820ee8c8d839ee ""
+  "lab_notes.aux" 1534871112 8 a94a2480d3289e625eea47cd1b285758 ""
+  "lab_notes.tex" 1534871101 104 9975a2d2ce7bb3ac3f577b903a97dfca ""
+  (generated)
+  "lab_notes.log"
+  "lab_notes.pdf"
+  "lab_notes.aux"

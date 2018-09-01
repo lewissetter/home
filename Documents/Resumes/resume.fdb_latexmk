@@ -1,0 +1,14 @@
+# Fdb version 3
+["pdflatex"] 1535596859 "resume.tex" "resume.pdf" "resume" 1535596865
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1525040097 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1525040101 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1525040104 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "/usr/share/texmf-dist/tex/latex/base/size11.clo" 1525040104 8310 c914ded44e64c3c6e0ed92e7ac6a2004 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1525040116 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1534280991 7906416 e770ee2ca6d5fd2466820ee8c8d839ee ""
+  "resume.aux" 1535596859 8 a94a2480d3289e625eea47cd1b285758 ""
+  "resume.tex" 1535596839 10828 935a46369e16a10e80ed94ad44ffc518 ""
+  "shading.sty" 0 -1 0 ""
+  (generated)
+  "resume.pdf"
+  "resume.log"
